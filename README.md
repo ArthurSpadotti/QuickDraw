@@ -22,3 +22,7 @@ Projeto onde o usuário desenha algo no site criado por HTML e ao enviar o desen
  9- Abra um CMD e cole o link lá, ele abrirá o chrome, não logue com nenhum usuário.
  
  10- Na aba de pesquisa abra o local host, por exemplo 'http://localhost8000/'
+
+Não foi possível realizar o upload do arquivo do aprendizado de máquina. Segue as instruções para a criação dele:
+ 1- Entre no Teachable machine e use imagens dos objetos citados ou dos da sua preferência para criar um modelo.
+ 2- salve o modelo e o adicione na pasta que está sendo usada para armazenar os arquivos de programação.
